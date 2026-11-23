@@ -1,0 +1,1 @@
+{"exists":true,"view":"ENRICHED.ENR_SRC_ECC_A__T001K","columns":["CLIENT","VALUATION_AREA","COMPANY_CODE"],"types":["TEXT","TEXT","TEXT"],"rows":[["100","1100","MX10"],["100","1200","BR10"],["100","1900","MX10"]]}

@@ -1,0 +1,1 @@
+{"exists":true,"view":"ENRICHED.ENR_SRC_S4_B__T001K","columns":["CLIENT","VALUATION_AREA","COMPANY_CODE"],"types":["TEXT","TEXT","TEXT"],"rows":[["100","2100","US10"],["100","2200","US10"],["100","3100","DE10"],["100","2900","US10"],["100","3900","DE10"]]}

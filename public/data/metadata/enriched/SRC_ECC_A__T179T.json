@@ -1,0 +1,1 @@
+{"exists":true,"view":"ENRICHED.ENR_SRC_ECC_A__T179T","columns":["CLIENT","LANGUAGE_KEY","PRODUCT_HIERARCHY","DESCRIPTION"],"types":["TEXT","TEXT","TEXT","TEXT"],"rows":[["100","E","PMP","Pumps"],["100","E","VLV","Industrial Valves"],["100","E","MTR","Motors"],["100","E","ACT","Actuators"],["100","E","CTL","Controls"],["100","E","SPR","Spare Parts"]]}

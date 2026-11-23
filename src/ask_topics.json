@@ -1,0 +1,135 @@
+{
+  "pages": {
+    "overview": {
+      "topic": "overview",
+      "suggestions": [
+        "What should I act on first, and what is the value at risk?",
+        "Which plants drag customer OTIF down, and why?"
+      ]
+    },
+    "demand": {
+      "topic": "demand",
+      "suggestions": [
+        "Which product families are most biased, and in which direction?",
+        "Is the Aggressive growth scenario feasible, and where does it break?"
+      ]
+    },
+    "mrp": {
+      "topic": "mrp",
+      "suggestions": [
+        "Which plants have the most shortages below safety stock?",
+        "Are late suppliers behind the MRP exceptions?"
+      ]
+    },
+    "capacity": {
+      "topic": "capacity",
+      "suggestions": [
+        "Which work centers are bottlenecks in Q2 2026?",
+        "How many hours are we short at the worst work center?"
+      ]
+    },
+    "inventory": {
+      "topic": "inventory",
+      "suggestions": [
+        "Where is excess and obsolete stock, and what drove it?",
+        "Which A-items need a higher safety stock?"
+      ]
+    },
+    "production": {
+      "topic": "production",
+      "suggestions": [
+        "What caused the scrap spike on Stuttgart line 3?",
+        "Which lines have the lowest OEE?"
+      ]
+    },
+    "assets": {
+      "topic": "assets",
+      "suggestions": [
+        "Which assets showed sensor anomalies before a breakdown?",
+        "Where do we lose the most hours to downtime?"
+      ]
+    },
+    "bom": {
+      "topic": "general",
+      "suggestions": [
+        "What did engineering change ECN-24-0117 change, and what does it cost us?"
+      ]
+    },
+    "digital-thread": {
+      "topic": "quality",
+      "suggestions": [
+        "Which component lots and suppliers are behind end-of-line test failures?"
+      ]
+    },
+    "inbound": {
+      "topic": "inbound",
+      "suggestions": [
+        "Which suppliers are late, and is their risk rising?",
+        "How much purchase price variance are we paying?"
+      ]
+    },
+    "supplier-quality": {
+      "topic": "quality",
+      "suggestions": [
+        "Which suppliers have the highest rejection rates?",
+        "What drives our cost of quality?"
+      ]
+    },
+    "fulfillment": {
+      "topic": "fulfillment",
+      "suggestions": [
+        "Why is Spare Parts OTIF from Laredo so low?",
+        "How big is the backlog and how much is past due?"
+      ]
+    },
+    "logistics": {
+      "topic": "logistics",
+      "suggestions": [
+        "Which lanes overrun freight the most, and why?",
+        "How much do we spend on expedited air?"
+      ]
+    },
+    "warehouse": {
+      "topic": "warehouse",
+      "suggestions": [
+        "Which warehouse zones are near capacity?",
+        "Which task types are slowest?"
+      ]
+    },
+    "cost": {
+      "topic": "cost",
+      "suggestions": [
+        "Why are Motors over standard cost?",
+        "How exposed are we to copper and steel prices?"
+      ]
+    },
+    "masterdata": {
+      "topic": "masterdata",
+      "suggestions": [
+        "How many materials are duplicated across ECC and S/4HANA?",
+        "Which master data issues should we fix first?"
+      ]
+    },
+    "network": {
+      "topic": "general",
+      "suggestions": [
+        "How do stock transfers flow between our plants and DCs?"
+      ]
+    },
+    "data-sources": {
+      "topic": "sources",
+      "suggestions": [
+        "Which sources feed this app and what does SAP BDC not supply?"
+      ]
+    }
+  },
+  "askCortexPage": {
+    "topic": "general",
+    "suggestions": [
+      "Give me a one-paragraph supply chain briefing for the VP.",
+      "Where are we losing the most money in the supply chain?",
+      "Which late supplier is causing shortages, and what should procurement do?",
+      "What links the vibration anomaly, the breakdown and the scrap spike in Stuttgart?"
+    ]
+  }
+}

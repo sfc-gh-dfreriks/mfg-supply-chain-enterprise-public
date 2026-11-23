@@ -1,0 +1,1 @@
+{"exists":true,"view":"ENRICHED.ENR_SRC_ECC_A__T001","columns":["CLIENT","COMPANY_CODE","NAME_OF_COMPANY_CODE_OR_COMPANY","COUNTRY_KEY","CURRENCY_KEY","CHART_OF_ACCOUNTS"],"types":["TEXT","TEXT","TEXT","TEXT","TEXT","TEXT"],"rows":[["100","MX10","Meridian Industrial MX","MX","MXN","YCOA"],["100","BR10","Meridian Industrial BR","BR","BRL","YCOA"]]}
